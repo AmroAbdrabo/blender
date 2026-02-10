@@ -1,5 +1,5 @@
 # Blender
 ## Fraumünster (Zürich)
-| REAL | RENDER |
+| REAL | FBX |
 |:----:|:------:|
-| <img src="fraumunster/stills/fraumunster-real.jpg" width="400"/> | <img src="fraumunster/stills/fraumunster3.png" width="400"/> |
+| <img src="fraumunster/stills/fraumunster-real.jpg" width="400"/> | <img src="fraumunster/stills/model.png" width="400"/> |
